@@ -20,3 +20,6 @@ print("run6 expected: []; actual:", run6)
 
 run7 = validate_word_prefixes(['1b'])  # should return ['1B']
 print("run7 expected: ['1B']; actual:", run7)
+
+run8 = validate_word_prefixes([10, '1C'])  # should return ['1C']
+print("run8 expected: ['1C']; actual:", run8)

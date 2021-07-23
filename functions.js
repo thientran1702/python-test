@@ -1,4 +1,4 @@
-# tuple of allowed string prefixes
+// tuple of allowed string prefixes
 const ALLOWED_WORD_PREFIXES = new Set([
     '1A',
     '1B',
